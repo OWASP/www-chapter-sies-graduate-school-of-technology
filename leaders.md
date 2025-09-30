@@ -1,4 +1,6 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Swapnil Wani](mailto:swapnil.wani@owasp.org)
+* [Vedant Borad](mailto:vedant.borad@owasp.org)
+* [Abdurrahman Sarguroh](mailto:abdurrahman.sarguroh@owasp.org)
+* [Ninad Bodke](mailto:ninad.bodke@owasp.org)
+* [Gaganraj Singh](mailto:gaganraj.singh.org)
