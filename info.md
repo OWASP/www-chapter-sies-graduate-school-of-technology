@@ -1,7 +1,5 @@
 ### SIES Graduate School of Technology Information
-* Provide Group Information
+* [Visit our college website](https://www.siesgst.edu.in/)
 
 ### Social Links
 * [Meetup](#)
-
-
