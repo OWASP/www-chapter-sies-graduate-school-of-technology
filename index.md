@@ -5,7 +5,6 @@ tags: owasp-siesgst
 region: Asia
 country: India
 meetup-group: 
-postal-code: 400706
 ---
 
 ## Welcome
