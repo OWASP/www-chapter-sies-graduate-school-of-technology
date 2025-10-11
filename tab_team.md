@@ -10,7 +10,9 @@ tags: owasp-siesgst
 
 | Role | Name |
 | --- | --- |
-| Chapter Leaders | [Swapnil Wani](mailto:swapnil.wani@owasp.org), [Vedant Borade](mailto:vedant.borade@owasp.org), [Abdurrahman Sarguroh](mailto:abdurrahman.sarguroh@owasp.org), [Ninad Bodke](mailto:ninad.bodke@owasp.org), [Gaganraj Singh Gahir](mailto:gaganraj.gahir@owasp.org) |
+| Chapter Leaders | [Vedant Borade](mailto:vedant.borade@owasp.org), [Abdurrahman Sarguroh](mailto:abdurrahman.sarguroh@owasp.org), [Ninad Bodke](mailto:ninad.bodke@owasp.org), [Gaganraj Singh Gahir](mailto:gaganraj.gahir@owasp.org) |
+| Chairperson | [Vedant Borade](mailto:vedant.borade@owasp.org) |
+| Chapter Coordinator | [Swapnil Wani](mailto:swapnil.wani@owasp.org) |
 | Technical Head | [Abdurrahman Sarguroh](mailto:abdurrahman.sarguroh@owasp.org) |
 | CTF Head | [Tejas Hole](mailto:tejashole2004@gmail.com) |
 | Admin Head | [Fareen Kadher](mailto:fareenkadher@gmail.com) |
