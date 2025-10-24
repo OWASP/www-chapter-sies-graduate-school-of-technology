@@ -1,0 +1,27 @@
+leaders:
+  - name: Vedant Borade
+    email: vedant.borade@owasp.org
+    github: Vedantfr
+  - name: Abdurrahman Sarguroh
+    email: abdurrahman.sarguroh@owasp.org
+    github: Abaan9350
+  - name: Ninad Bodke
+    email: ninad.bodke@owasp.org
+  - name: Gaganraj Singh
+location:
+  country: India
+  country_code: IN
+  region: India
+  city: Navi Mumbai
+  latitude: 19.0308262
+  longitude: 73.0198537
+name: OWASP SIES Graduate School of Technology
+repositories:
+  - name: www-chapter-sies-graduate-school-of-technology
+    url: https://github.com/OWASP/www-chapter-sies-graduate-school-of-technology
+    description: OWASP Foundation web repository
+tags:
+  - owasp-siesgst
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sies-graduate-school-of-technology
