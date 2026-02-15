@@ -15,7 +15,7 @@ All events hosted by OWASP SIES GST are open to everyone. Students, faculty, and
 
 ## Next Meeting/Event
 
-### 🔐 OWASP SIES GST CTF Workshop
+### OWASP SIES GST CTF Workshop
 **Date:** 2 March 2026  
 **Type:** Hands-on Workshop  
 **Mode:** Offline  
@@ -24,7 +24,10 @@ This workshop is designed to prepare participants for the upcoming Capture The F
 
 ---
 
-### 🏁 OWASP SIES GST Capture The Flag (CTF)
+### OWASP SIES GST Capture The Flag (CTF)
+
+![OWASP SIES GST CTF Poster](/assets/images/CTF-5-7.png)
+
 **Date:** 5 March 2026 – 7 March 2026  
 **Type:** Competitive CTF Event  
 **Mode:** Hybrid  
