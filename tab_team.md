@@ -19,4 +19,4 @@ tags: owasp-siesgst
 | Creative & Design Head | [Janaki Krishnamoothy](mailto:jan4tml@gmail.com) |
 | Editorial/Documentation Head | [Pratiksha Samal](mailto:pratikshasamal04@gmail.com) |
 | Social Media Head | [Sahil Pawar](mailto:sahilpawar@gmail.com) |
-| Marketing Head | [Abhinav Tiwari](mailto:abhinavtiwari@gmail.com) |
+| Marketing Head | [Gaganraj Singh](mailto:gaganraj.gahir@owasp.org) |
