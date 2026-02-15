@@ -26,9 +26,7 @@ This workshop is designed to prepare participants for the upcoming Capture The F
 
 ### OWASP SIES GST Capture The Flag (CTF)
 
-<img src="/assets/images/CTF-5-7.png"
-     alt="OWASP SIES GST CTF Poster"
-     style="max-width: 600px; width: 100%; height: auto; display: block; margin: 20px auto;">
+![OWASP SIES GST CTF Poster](/assets/images/CTF-5-7.png)
 
 **Date:** 5 March 2026 – 7 March 2026  
 **Type:** Competitive CTF Event  
